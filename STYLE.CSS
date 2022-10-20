@@ -177,7 +177,7 @@ header .btn-mobile{
     border-radius: 5px;
 }
 #about .container .box-title .b3{
-    width: 300px;
+    /* width: 300px; */
     height: 8px;
     background: #156fc3;
     border-radius: 5px;
@@ -189,7 +189,7 @@ header .btn-mobile{
     border-radius: 5px;
 }
 #about .container .box-title .b5{
-    width: 257px;
+    width: 100px;
     height: 8px;
     background: #156fc3;
     border-radius: 5px;
